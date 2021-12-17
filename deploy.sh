@@ -17,7 +17,7 @@ git add -A
 git commit -m 'deploy'
 
 # 如果发布到 https://junes-xie.github.io/
-git push -f junes-xie.github.io.git master
+git push -f git@github.com:Junes-Xie/Junes-Xie.github.io main
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 
